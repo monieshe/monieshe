@@ -74,6 +74,5 @@ Manakula Vinayagar Institute of Technology, Puducherry
 
 ---
 
-## 💬 Favorite Quote
-> “The best way to predict the future is to invent it.” – Alan Kay
+
 
